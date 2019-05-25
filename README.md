@@ -1,4 +1,4 @@
-Implementation of an IRIG-B receiver, agnostic of positive/negative edges
+Implementation of an [IRIG-B](https://en.wikipedia.org/wiki/IRIG_timecode) receiver, agnostic of positive/negative edges
 (only succession of 2, 5, 8 ms delays are assessed to find frame start)
 
 Constraints:
